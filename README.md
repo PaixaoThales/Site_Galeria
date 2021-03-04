@@ -11,4 +11,4 @@ O modelo do site é baseado em:
 * Desativar *(regra de negócio, já que excluir um registro pode comprometer a confiabiliadade do banco de dados)*
 
 Utilizei a biblioteca JQuery para deixar o site mais "bonitinho".
-Para utilizar o site é necessário inserir o banco de dados, disponivel no repositório, no phpMyAdmin. E adicionar o próprio repositório contendo os arquivos .php na pasta www do wampserver, por sua vez localizada, geralmente, na pasta wamp64 ou wamp32.
+Para utilizar o site é necessário inserir o banco de dados, disponivel no repositório, no banco de dados do servidor. E adicionar o próprio repositório contendo os arquivos .php na pasta de projetos no seu server, por exemplo, na pasta www do wampserver, por sua vez localizada, geralmente, na pasta wamp64 ou wamp32.
